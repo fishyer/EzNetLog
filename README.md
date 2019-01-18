@@ -8,7 +8,7 @@
 
 maven地址：
 ```
-maven { url "http://fishyer.vipgz1.idcfengye.com/repository/maven-public/"}
+maven { url "http://192.168.199.65:8081/repository/maven-public/"}
 ```
 
 库依赖方式
