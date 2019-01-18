@@ -1,0 +1,1 @@
+include ':app', ':uat_netlog', ':uat_netlog_no_op'
