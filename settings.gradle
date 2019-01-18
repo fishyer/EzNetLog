@@ -1,1 +1,1 @@
-include ':app', ':eznetlog', ':eznetlog_no_op'
+include ':app', ':eznetlog', ':eznetlog-no-op'
