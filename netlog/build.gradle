@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply from: "https://gist.githubusercontent.com/fishyer/4690336ea23cfc71f9a8c93afa72f8ea/raw/4c775ada23b5a28ab37de23c78fd4e99bedeb534/uploadToRemote.gradle"
 
 android {
     compileSdkVersion 28
